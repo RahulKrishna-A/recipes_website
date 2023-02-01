@@ -1,0 +1,31 @@
+.title_font{
+    font-family: "Agency FB", cursive;
+    font-size: 100px;
+    color: firebrick;
+
+}
+*{
+    background-color: antiquewhite;
+}
+
+#list_head{
+    font-size: 80px;
+    color: sienna;
+}
+.comp{
+    font-size: 30px;
+    color: black;
+    font-family: "Script MT Bold",cursive}
+
+.ingredients{
+    font-size: 60px;
+    font-family: "Footlight MT Light", serif;
+    color: firebrick;
+}
+.comp{
+    font-size: 25px;
+}
+.recipe{
+    border-radius: 25px;
+    width: auto;
+height: 600px;
